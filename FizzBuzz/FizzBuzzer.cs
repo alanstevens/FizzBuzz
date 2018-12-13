@@ -5,7 +5,7 @@ using FluentAssertions;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace ClearMeasure
+namespace FizzBuzz
 {
     internal class FizzBuzzer
     {
